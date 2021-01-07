@@ -1,0 +1,88 @@
+<level>
+	<platform1 friction="50">
+		<point x='88' y='236'/>
+		<point x='88' y='1940'/>
+		<point x='539.8000000000001' y='1940'/>
+	</platform1>
+	<platform1 friction="50">
+		<point x='808' y='1940'/>
+		<point x='1628' y='1940'/>
+		<point x='1628' y='232'/>
+		<point x='20' y='228'/>
+	</platform1>
+	<platform1 friction="50">
+		<point x='214.60000000000002' y='1735.2'/>
+		<point x='1406.6000000000001' y='1733.4'/>
+		<point x='1405.4' y='1247.6000000000001'/>
+		<point x='1631.4' y='1247.4'/>
+	</platform1>
+	<platform1 friction="50">
+		<point x='1525.2' y='1836'/>
+		<point x='1627.6000000000001' y='1836'/>
+	</platform1>
+	<platform1 friction="50">
+		<point x='1524.4' y='1436'/>
+		<point x='1629.2' y='1438'/>
+	</platform1>
+	<platform1 friction="50">
+		<point x='1405' y='1733.6000000000001'/>
+		<point x='1470.4' y='1731.4'/>
+	</platform1>
+	<platform1 friction="50">
+		<point x='1530.8000000000002' y='1646'/>
+		<point x='1629.8000000000002' y='1644.8000000000002'/>
+	</platform1>
+	<platform1 friction="50">
+		<point x='1406.2' y='1530.4'/>
+		<point x='1470.8000000000002' y='1532'/>
+	</platform1>
+	<platform1 friction="50">
+		<point x='88' y='1392'/>
+		<point x='188' y='1392'/>
+	</platform1>
+	<platform2 friction="50">
+		<point x='539' y='1940'/>
+		<point x='808' y='1940'/>
+	</platform2>
+	<endZone friction="50">
+		<point x='1500' y='1196'/>
+	</endZone>
+	<dynamicMarker friction="">
+		<point x='136' y='1340' ink='1000' />
+		<point x='1552' y='1360' ink='2000'/>
+	</dynamicMarker>
+	<coin friction="">
+		<point x='764' y='1980'/>
+		<point x='716' y='1980'/>
+		<point x='332' y='1268'/>
+		<point x='364' y='1308'/>
+		<point x='400' y='1356'/>
+		<point x='432' y='1408'/>
+		<point x='460' y='1460'/>
+		<point x='480' y='1512'/>
+		<point x='492' y='1568'/>
+		<point x='668' y='1980'/>
+		<point x='621' y='1981'/>
+		<point x='575' y='1979'/>
+		<point x='1384' y='880'/>
+		<point x='1356' y='848'/>
+		<point x='1316' y='824'/>
+		<point x='1256' y='824'/>
+		<point x='1212' y='860'/>
+		<point x='1184' y='912'/>
+		<point x='1172' y='956'/>
+		<point x='1156' y='1012'/>
+		<point x='1140' y='1076'/>
+		<point x='1128' y='1144'/>
+		<point x='1116' y='1212'/>
+		<point x='1108' y='1284'/>
+		<point x='1096' y='1352'/>
+		<point x='1088' y='1428'/>
+		<point x='1072' y='1492'/>
+		<point x='1064' y='1556'/>
+		<point x='196' y='1308'/>
+		<point x='236' y='1260'/>
+		<point x='284' y='1248'/>
+	</coin>
+<scale value='4000'/>
+</level>

@@ -1,0 +1,28 @@
+<level>
+	<platform1 friction="50">
+		<point x='88' y='236'/>
+		<point x='88' y='1936'/>
+		<point x='643.8000000000001' y='1938'/>
+	</platform1>
+	<platform1 friction="50">
+		<point x='728' y='1936'/>
+		<point x='1036' y='1936'/>
+	</platform1>
+	<platform1 friction="50">
+		<point x='1108' y='1940'/>
+		<point x='1344' y='1940'/>
+	</platform1>
+	<platform1 friction="50">
+		<point x='1416' y='1940'/>
+		<point x='1852' y='1940'/>
+		<point x='1848' y='280'/>
+	</platform1>
+	<platform3 friction="">
+		<point x='264' y='1780'/>
+		<point x='1792' y='1780'/>
+	</platform3>
+	<endZone friction="">
+		<point x='1768' y='1888'/>
+	</endZone>
+<scale value='4000'/>
+</level>

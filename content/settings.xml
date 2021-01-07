@@ -1,0 +1,4 @@
+﻿<settings>
+	<camera showShapes="0" showJoints="0" showMcs="1" bitmap="0"/>
+	<general speed="3" showGui="1" level="1" startGold="80" clearData="0"/> 
+</settings> 
